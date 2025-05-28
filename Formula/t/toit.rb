@@ -1,8 +1,8 @@
 class Toit < Formula
   desc "The Toit language SDK"
   homepage "https://toitlang.org"
-  url "https://github.com/toitlang/toit/releases/download/v2.0.0-alpha.180/toit-v2.0.0-alpha.180-with-submodules.tar.gz"
-  sha256 "ca6dbaf1da00baddc5257b51a7155f7ae15dea8722795e024d463bcda0efaf1e"
+  url "https://github.com/toitlang/toit/releases/download/v2.0.0-alpha.183/toit-v2.0.0-alpha.183-with-submodules.tar.gz"
+  sha256 "2bb38edb4f8d06a7642edda40448f0fe39caf883ececf86aaeb53a4a2fb064c4"
   license "LGPL-2.1"
 
   depends_on "cmake" => :build
